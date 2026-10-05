@@ -6,7 +6,7 @@
     "max_depth": 1,
     "pages_visited": 5,
     "successful_pages": 5,
-    "execution_time_seconds": 4.13
+    "execution_time_seconds": 4.09
   },
   "total_pages": 5,
   "pages": [
@@ -15,7 +15,7 @@
       "canonical_url": "https://quotes.toscrape.com/",
       "depth": 0,
       "status_code": 200,
-      "response_time_ms": 549.2708000001585,
+      "response_time_ms": 562.1374000002106,
       "content_length": 11064,
       "content": {
         "title": "Quotes to Scrape",
@@ -296,14 +296,14 @@
         "word_count": 288
       },
       "error": null,
-      "crawled_at": "2026-10-05T16:37:23.911252+00:00"
+      "crawled_at": "2026-10-05T17:13:06.386102+00:00"
     },
     {
       "url": "https://quotes.toscrape.com/login",
       "canonical_url": "https://quotes.toscrape.com/login",
       "depth": 1,
       "status_code": 200,
-      "response_time_ms": 286.2504999993689,
+      "response_time_ms": 280.7250000005297,
       "content_length": 1880,
       "content": {
         "title": "Quotes to Scrape",
@@ -355,14 +355,14 @@
         "word_count": 14
       },
       "error": null,
-      "crawled_at": "2026-10-05T16:37:24.206792+00:00"
+      "crawled_at": "2026-10-05T17:13:06.675535+00:00"
     },
     {
       "url": "https://quotes.toscrape.com/author/Albert-Einstein",
       "canonical_url": "http://quotes.toscrape.com/author/Albert-Einstein/",
       "depth": 1,
       "status_code": 200,
-      "response_time_ms": 856.8842000004224,
+      "response_time_ms": 818.909599998733,
       "content_length": 5335,
       "content": {
         "title": "Quotes to Scrape",
@@ -420,14 +420,14 @@
         "word_count": 645
       },
       "error": null,
-      "crawled_at": "2026-10-05T16:37:25.290616+00:00"
+      "crawled_at": "2026-10-05T17:13:07.720766+00:00"
     },
     {
       "url": "https://quotes.toscrape.com/tag/change/page/1",
       "canonical_url": "http://quotes.toscrape.com/tag/change/page/1/",
       "depth": 1,
       "status_code": 200,
-      "response_time_ms": 574.6977999988303,
+      "response_time_ms": 566.1954999995942,
       "content_length": 3862,
       "content": {
         "title": "Quotes to Scrape",
@@ -562,14 +562,14 @@
         "word_count": 59
       },
       "error": null,
-      "crawled_at": "2026-10-05T16:37:25.876424+00:00"
+      "crawled_at": "2026-10-05T17:13:08.299298+00:00"
     },
     {
       "url": "https://quotes.toscrape.com/tag/deep-thoughts/page/1",
       "canonical_url": "http://quotes.toscrape.com/tag/deep-thoughts/page/1/",
       "depth": 1,
       "status_code": 200,
-      "response_time_ms": 579.8570999995718,
+      "response_time_ms": 578.2885999997234,
       "content_length": 3876,
       "content": {
         "title": "Quotes to Scrape",
@@ -704,7 +704,7 @@
         "word_count": 60
       },
       "error": null,
-      "crawled_at": "2026-10-05T16:37:26.479378+00:00"
+      "crawled_at": "2026-10-05T17:13:08.886442+00:00"
     }
   ]
 }

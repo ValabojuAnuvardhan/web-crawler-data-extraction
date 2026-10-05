@@ -1,6 +1,6 @@
 URL,Title,HTTP Status,Depth,Response Time (ms),Word Count,Headings Count,Headings,Paragraph Count,Body Preview,Link Count,Image Count,Meta Description,Meta Keywords,Error,Crawled At
-https://quotes.toscrape.com/,Quotes to Scrape,200,0,549.27,288,2,[1] Quotes to Scrape | [2] Top Ten tags,3,Login Quotes by: GoodReads.com,49,0,,,,2026-10-05T16:37:23.911252+00:00
-https://quotes.toscrape.com/login,Quotes to Scrape,200,1,286.25,14,1,[1] Quotes to Scrape,3,Login Quotes by: GoodReads.com,4,0,,,,2026-10-05T16:37:24.206792+00:00
-https://quotes.toscrape.com/author/Albert-Einstein,Quotes to Scrape,200,1,856.88,645,2,[1] Quotes to Scrape | [3] Albert Einstein,5,"Login Born: March 14, 1879 in Ulm, Germany",4,0,,,,2026-10-05T16:37:25.290616+00:00
-https://quotes.toscrape.com/tag/change/page/1,Quotes to Scrape,200,1,574.7,59,3,[1] Quotes to Scrape | [3] Viewing tag: change | [2] Top Ten tags,3,Login Quotes by: GoodReads.com,19,0,,,,2026-10-05T16:37:25.876424+00:00
-https://quotes.toscrape.com/tag/deep-thoughts/page/1,Quotes to Scrape,200,1,579.86,60,3,[1] Quotes to Scrape | [3] Viewing tag: deep-thoughts | [2] Top Ten tags,3,Login Quotes by: GoodReads.com,19,0,,,,2026-10-05T16:37:26.479378+00:00
+https://quotes.toscrape.com/,Quotes to Scrape,200,0,562.14,288,2,[1] Quotes to Scrape | [2] Top Ten tags,3,Login Quotes by: GoodReads.com,49,0,,,,2026-10-05T17:13:06.386102+00:00
+https://quotes.toscrape.com/login,Quotes to Scrape,200,1,280.73,14,1,[1] Quotes to Scrape,3,Login Quotes by: GoodReads.com,4,0,,,,2026-10-05T17:13:06.675535+00:00
+https://quotes.toscrape.com/author/Albert-Einstein,Quotes to Scrape,200,1,818.91,645,2,[1] Quotes to Scrape | [3] Albert Einstein,5,"Login Born: March 14, 1879 in Ulm, Germany",4,0,,,,2026-10-05T17:13:07.720766+00:00
+https://quotes.toscrape.com/tag/change/page/1,Quotes to Scrape,200,1,566.2,59,3,[1] Quotes to Scrape | [3] Viewing tag: change | [2] Top Ten tags,3,Login Quotes by: GoodReads.com,19,0,,,,2026-10-05T17:13:08.299298+00:00
+https://quotes.toscrape.com/tag/deep-thoughts/page/1,Quotes to Scrape,200,1,578.29,60,3,[1] Quotes to Scrape | [3] Viewing tag: deep-thoughts | [2] Top Ten tags,3,Login Quotes by: GoodReads.com,19,0,,,,2026-10-05T17:13:08.886442+00:00

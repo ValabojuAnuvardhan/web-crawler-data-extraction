@@ -46,7 +46,7 @@
 | **Modular Packages** | Clean separation: `app.crawler`, `app.parser`, `app.exporter`, `app.models`, `app.search`, `app.utils` | Directory structure | **YES** | Package imports |
 | **Type Hints** | All functions, parameters, and dataclasses fully type-annotated | `app/**/*.py` | **YES** | `flake8 app tests` |
 | **Documentation** | Detailed `README.md`, `ARCHITECTURE.md`, `ALGORYX_GUIDELINES.md`, `DEMO_GUIDE.md`, `LINKEDIN_POST.md` | Root and `docs/` | **YES** | Markdown files |
-| **Clean requirements.txt** | Only 6 essential packages: `httpx`, `beautifulsoup4`, `lxml`, `python-dotenv`, `pytest`, `pytest-asyncio` | [requirements.txt](file:///c:/Users/Valaboju%20Anuvardhan/OneDrive/Desktop/ALGORYX-INTERNSHIP/task-4/requirements.txt) | **YES** | Clean pip install |
+| **Clean requirements.txt** | Only 4 essential runtime packages: `httpx`, `beautifulsoup4`, `lxml`, `python-dotenv` (dev/test packages separated into `requirements-dev.txt`) | [requirements.txt](file:///c:/Users/Valaboju%20Anuvardhan/OneDrive/Desktop/ALGORYX-INTERNSHIP/task-4/requirements.txt) | **YES** | Clean pip install |
 | **Exception Handling** | Catches `httpx.TimeoutException`, `httpx.ConnectError`, `httpx.HTTPError`, unexpected exceptions with logging | [app/crawler/crawler.py](file:///c:/Users/Valaboju%20Anuvardhan/OneDrive/Desktop/ALGORYX-INTERNSHIP/task-4/app/crawler/crawler.py#L202-L215) | **YES** | `tests/test_crawler.py` |
 
 ---
