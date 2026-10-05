@@ -1,0 +1,18 @@
+services:
+  crawler:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: web_crawler_engine
+    environment:
+      - CRAWLER_USER_AGENT=AlgoryxBot/1.0 (+https://www.algoryx.in; internship-task-4)
+      - MAX_DEPTH=2
+      - MAX_PAGES=20
+      - CRAWL_DELAY=1.0
+      - RESPECT_ROBOTS=true
+      - LOG_LEVEL=INFO
+      - OUTPUT_DIRECTORY=data
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    command: ["crawl", "--url", "https://quotes.toscrape.com/", "--depth", "2", "--max-pages", "20", "--output", "data"]

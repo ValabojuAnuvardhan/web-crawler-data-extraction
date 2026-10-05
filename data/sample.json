@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "crawler": "Algoryx Web Crawler Engine",
+    "version": "1.0.0",
+    "seed_urls": [
+      "https://example.com"
+    ],
+    "max_depth": 1,
+    "pages_visited": 2,
+    "successful_pages": 2,
+    "execution_time_seconds": 2.14,
+    "exported_at": "2026-10-05T20:00:00Z"
+  },
+  "total_pages": 2,
+  "pages": [
+    {
+      "url": "https://example.com",
+      "canonical_url": "https://example.com/",
+      "depth": 0,
+      "status_code": 200,
+      "response_time_ms": 112.45,
+      "content_length": 1420,
+      "content": {
+        "title": "Algoryx Technologies — Engineering Scalable Web Systems",
+        "headings": [
+          {
+            "level": 1,
+            "text": "Build. Innovate. Deliver. Impact."
+          },
+          {
+            "level": 2,
+            "text": "Core Engineering Capabilities"
+          },
+          {
+            "level": 2,
+            "text": "Data Engineering & Analytics"
+          }
+        ],
+        "paragraphs": [
+          "Algoryx is a technology company focused on building next-generation digital solutions, intelligent systems, and high-performance platforms.",
+          "We combine innovation, engineering excellence, and data-driven strategies to deliver scalable, secure, and efficient products for modern businesses."
+        ],
+        "links": [
+          {
+            "url": "https://example.com/about",
+            "text": "About Algoryx",
+            "is_internal": true
+          },
+          {
+            "url": "https://example.com/services",
+            "text": "Services & Solutions",
+            "is_internal": true
+          },
+          {
+            "url": "https://github.com/algoryx",
+            "text": "GitHub Open Source",
+            "is_internal": false
+          }
+        ],
+        "images": [
+          {
+            "src": "https://example.com/assets/logo.png",
+            "alt": "Algoryx Technologies Logo",
+            "title": "Algoryx Official Brandmark"
+          }
+        ],
+        "metadata": {
+          "description": "Next-generation digital solutions, intelligent systems, and scalable web crawlers.",
+          "keywords": [
+            "technology",
+            "data engineering",
+            "web crawler",
+            "algoryx"
+          ],
+          "author": "Algoryx Engineering Team",
+          "canonical": "https://example.com/",
+          "og_title": "Algoryx Technologies",
+          "og_description": "Next-generation digital solutions and high-performance platforms.",
+          "og_image": "https://example.com/assets/og-banner.png",
+          "extra": {}
+        },
+        "raw_text": "Build. Innovate. Deliver. Impact. Core Engineering Capabilities Data Engineering & Analytics Algoryx is a technology company focused on building next-generation digital solutions, intelligent systems, and high-performance platforms. We combine innovation, engineering excellence, and data-driven strategies to deliver scalable, secure, and efficient products for modern businesses.",
+        "word_count": 48
+      },
+      "error": null,
+      "crawled_at": "2026-10-05T20:00:01Z"
+    },
+    {
+      "url": "https://example.com/about",
+      "canonical_url": "https://example.com/about",
+      "depth": 1,
+      "status_code": 200,
+      "response_time_ms": 94.3,
+      "content_length": 1180,
+      "content": {
+        "title": "About Algoryx — Leadership & Culture",
+        "headings": [
+          {
+            "level": 1,
+            "text": "About Our Team & Mission"
+          },
+          {
+            "level": 2,
+            "text": "Our Core Values"
+          }
+        ],
+        "paragraphs": [
+          "Our engineering teams specialize in cloud architecture, machine learning systems, and robust data pipelines.",
+          "We follow rigorous coding standards, modular design patterns, and continuous integration."
+        ],
+        "links": [
+          {
+            "url": "https://example.com/",
+            "text": "Home",
+            "is_internal": true
+          },
+          {
+            "url": "https://example.com/contact",
+            "text": "Contact Us",
+            "is_internal": true
+          }
+        ],
+        "images": [
+          {
+            "src": "https://example.com/assets/team.jpg",
+            "alt": "Algoryx Engineering Team",
+            "title": null
+          }
+        ],
+        "metadata": {
+          "description": "Learn about the mission, culture, and engineering standards at Algoryx Technologies.",
+          "keywords": [
+            "about",
+            "engineering",
+            "culture",
+            "mission"
+          ],
+          "author": "Algoryx",
+          "canonical": "https://example.com/about",
+          "og_title": "About Algoryx",
+          "og_description": "Our team and engineering mission.",
+          "og_image": null,
+          "extra": {}
+        },
+        "raw_text": "About Our Team & Mission Our Core Values Our engineering teams specialize in cloud architecture, machine learning systems, and robust data pipelines. We follow rigorous coding standards, modular design patterns, and continuous integration.",
+        "word_count": 35
+      },
+      "error": null,
+      "crawled_at": "2026-10-05T20:00:02Z"
+    }
+  ]
+}
